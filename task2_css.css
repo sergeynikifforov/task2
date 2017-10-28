@@ -1,0 +1,49 @@
+body{
+    font-family: Vardana,Arail,Gavena,Arial Black;
+    font-weight: bolder;
+    font-size: 25px;
+    background-image: url(BSP_054.jpg);
+}
+h1.summary{
+    color: black;
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: darkorange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+div.about{
+    color: rgba(255, 16, 67, 0.7);
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: darkorange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+div.experience{
+    color: rgba(98, 255, 67, 0.7);
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: darkorange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+div.contacts{
+    color: yellow;
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: darkorange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
